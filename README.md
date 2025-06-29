@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Agarwal</h1>
 <h3 align="center">Flutter Developer and Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-ag16&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-ag16" /> </p>
-
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 
 Passionate about data analytics, machine learning, and app development. I enjoy turning ideas into practical solutions through data-driven insights, intelligent models, and user-friendly applications. Currently focused on improving my skills in data visualization, ML model deployment, and full-stack app development.
